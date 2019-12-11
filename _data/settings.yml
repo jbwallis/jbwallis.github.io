@@ -78,7 +78,7 @@ projects:
 - {name: 'Wind Turbine', folder: 'proj-2', file: 'projects/proj-2.html'}
 - {name: 'Crossplane V8', folder: 'proj-3', file: 'projects/proj-3.html'}
 - {name: 'Stomper', folder: 'proj-4', file: 'projects/proj-4.html'}
-- {name: 'KTM 350 Engine Rebuild', folder: 'proj-5', file: 'projects/proj-5.html'}
+- {name: 'KUGU Home', folder: 'proj-5', file: 'projects/proj-5.html'}
 
 #-------------------------------
 # Contact Section
