@@ -43,12 +43,12 @@ consulting with my team lead, we decided to move the rod to the top of the radia
 radiator to be lowered as much as possible) and swap it out for a more aesthetically pleasing, and 
 modular, tie rod.
 
-![MountingHardware](media/proj-1/manufacturing.jpg)
+![MountingHardware](media/proj-1/manufacturing.JPG)
 
 Finally, I designed a fan shroud to be molded out of carbon fiber. I intend to consult some alumni as well 
 as run some CFD's to validate the necessity of a shroud before manufacturing, as it could be counterproductive 
 to always channel air to a fan that isn't always running.
 
-![B20Rear](media/proj-1/RearQuarter.jpg)
+![B20Rear](media/proj-1/RearQuarter.JPG)
 
 In the spring semester, I intend to manufacture and assemble the radiator mounts and shroud.
