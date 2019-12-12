@@ -34,11 +34,11 @@ rotated. These alternated with more square segments, my main bearing journals.
 This crank is in a cross-plane configuration, meaning that a cylinder "fires" every 90° the crank 
 is rotated. My model has the same firing order (the order in which the cylinders fire) as a Chevy small block V8.
 
-<notavideo width="600" controls>
+<video width="600" controls>
   <source src="media/proj-3/rotation.mp4" type="video/mp4">
   <p>Your browser doesn't support HTML5 video. Here is
      a <a href="https://youtu.be/Z09ctN7BRMc">link to the video</a> instead.</p>
-</notavideo>
+</video>
 
 
 ![finally](media/proj-3/hero.jpeg)
