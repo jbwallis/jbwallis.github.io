@@ -10,7 +10,7 @@
 
   <title>
     
-      KTM 350 Rebuild | Jack Wallis
+      Internet of Laundry | Jack Wallis
     
   </title>
 
@@ -62,8 +62,30 @@
 
   <section>
   <div class="work-container">
-    <h2 class="project-title">KTM 350 Rebuild</h4>
-    <div class="project-load"><p>The impetus for this project was to create a</p>
+    <h2 class="project-title">Internet of Laundry</h4>
+    <div class="project-load"><p>For this mini IoT group project, we asked ourselves how we could implement “smart” functionality 
+into our everyday lives as simply and unobtrusively as possible. The result was Internet of Laundry: IoL.</p>
+
+<p><img src="media/IoL/Front.jpg" alt="hero!" /></p>
+
+<p>IoL is a smart plug for communal laundry machines. It detects current flow and updates a website 
+with machine status, and allows users to receive an email notification when a machine becomes free.</p>
+
+<p><img src="media/IoL/insidewithcover.jpg" alt="hero2!" /></p>
+
+<p>We cleaned out the inside of a commercial smart plug housing, and crammed an ESP32 microcontroller, current 
+sensor, and RGB LED, all powered  with an AC-DC 5V step-down.</p>
+
+<p><img src="media/IoL/inside.jpg" alt="insideshot" /></p>
+
+<p>We used AWS to host a Mosquitto MQTT broker, mySQL database, and Apache web server, and run Python 
+scripts that moved data between the three. Javascript running on the client browser asynchronously 
+pulls data from the database, and updates amperage readouts and animations on the web page.</p>
+
+<p><img src="media/IoL/website.gif" alt="insideshot" /></p>
+
+<p>A huge thank you is in order to Philipp Kurz, an incredibly talented mechatronics major from 
+the University of Applied Sciences, Stuttgart, and my partner for this project.</p>
 </div>
   </div>
   
