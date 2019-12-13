@@ -43,7 +43,7 @@ translated over greater surface area within the joint. I eliminated overhang to 
 which counted towards our total build volume. And I flattened the ends of the split surface to eliminate impossible-to-print 
 edge cases on the sides of the interface.
 
-![split2](media/proj-2/Splitstrategy2.png)
+![split2](media/proj-2/SplitStrategy2.png)
 
 ![tower3iso](media/proj-2/Tower3ISO.png)
 
