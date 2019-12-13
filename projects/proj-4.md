@@ -28,8 +28,6 @@ box, and also align the gears perfectly with respect to the sides of the box. I 
 the sides of the DC motors so they mounted flush against the sides of the box. We applied thread locker to all 
 the bolts to prevent them from tightening or loosening if they happened to rotate with the gears.
 
-![progress2](media/stomper/progress2.jpeg)
-
 And, in order to help the rectangular feet re-orient between stomps, we added mass to the bottom of both feet 
 in the form of additional layers of wood. Sona also added some thicker rubber bands to the bottoms in an 
 effort to gain more traction.
@@ -47,14 +45,11 @@ occasionally wouldn't re-orient while in the air between stomps.
 
 For our third and final version, we decided to switch to a triangular shape for the feet, and 
 stretch rubber bands around them. We also relocated the battery pack to the front of the vehicle (to 
-prevent tipping while climbing) and switched to lighter non-rechargeable batteries.
+prevent tipping while climbing), switched to lighter non-rechargeable batteries, and added wooden 
+tails to prevent the box from flipping.
 
-![progress3](media/stomper/progress3.jpeg)
+![final1](media/stomper/frontQuarterFinal.jpeg)
+![final2](media/stomper/sideFinal.jpeg)
+![final3](media/stomper/rearQuarterFinal.jpeg)
 
-We also added rubber bands to the entire circumference of the box as another slight traction aid 
-for climbs.
-
-![racer](media/stomper/racingstripe.jpeg)
-
-Our final design is set to be tested at the Jacobs Hall Design Showcase on December 11.
 

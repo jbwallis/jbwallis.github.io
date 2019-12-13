@@ -26,7 +26,7 @@ aluminum tabs that bolted to corresponding steel tabs on the chassis. In order t
 compare stiffness to B19, I ran static FEA's under worst-case loads: 1.5G acceleration, 2G cornering, and 3G bumps.
 
 
-2019 Displacement:
+<h4>2019 Displacement:</h4>
 ![B19Displacement](media/proj-1/B19Displacement.png)
 ![B19Displacement](media/proj-1/B19Displacement2.png)
 
@@ -35,7 +35,7 @@ of the radiator connected to the sidewing. Our aero team, however,  decided not 
 the 2020 car, so I came up with a new design using a rod to connect the outside edge of the radiator from 
 deflecting. FEA's showed significant improvement, less than a millimeter of deflection.
 
-2020 Displacement:
+<h4>2020 Displacement:</h4>
 ![B20Displacement](media/proj-1/Displacement1.png)
 
 My initial design relied on a solid tube welded to the bottom edge of the radiator. After 
