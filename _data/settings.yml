@@ -46,7 +46,7 @@ about: >
   
   
   I'm a mechanical engineer at UC Berkeley, an engine team member on Berkeley Formula Racing, 
-  and an assembly technician at covariant.ai. Currently looking for internships in 2020.
+  and an assembly technician at covariant.ai. I'm currently looking for internships in 2020.
   
   Interests include:
   
@@ -65,7 +65,9 @@ about: >
   - Cleon Peterson<BR>
   
 
-  Please feel free to reach out to me [through my email!](mailto:jackbwallis@berkeley.edu)
+  Please feel free to reach out to me through my email!
+  
+  #### jackbwallis@berkeley.edu
   
 contact: >
   # Contact
@@ -82,6 +84,7 @@ projects:
 - {name: 'Crossplane V8', folder: 'proj-3', file: 'projects/proj-3.html'}
 - {name: 'Stomper', folder: 'proj-4', file: 'projects/proj-4.html'}
 - {name: 'KUGU Home', folder: 'proj-5', file: 'projects/proj-5.html'}
+- {name: 'KTM 350 Rebuild', folder: 'proj-7', file: 'projects/proj-7.html'}
 
 #-------------------------------
 # Contact Section
