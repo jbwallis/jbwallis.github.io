@@ -3,8 +3,7 @@ layout: post
 title: 'KTM 350'
 ---
 
-For this mini IoT group project, we asked ourselves how we could implement "smart" functionality 
-into our everyday lives as simply and unobtrusively as possible. The result was Internet of Laundry: IoL.
+When I got to 
 
 ![hero!](media/IoL/Front.jpg)
 

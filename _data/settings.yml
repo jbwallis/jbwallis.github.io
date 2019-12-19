@@ -82,9 +82,9 @@ projects:
 - {name: 'IoL', folder: 'proj-6', file: 'projects/proj-6.html'}
 - {name: 'Wind Turbine', folder: 'proj-2', file: 'projects/proj-2.html'}
 - {name: 'Crossplane V8', folder: 'proj-3', file: 'projects/proj-3.html'}
+- {name: 'Sound Machine', folder: 'proj-8', file: 'projects/proj-8.html'}
 - {name: 'Stomper', folder: 'proj-4', file: 'projects/proj-4.html'}
 - {name: 'KUGU Home', folder: 'proj-5', file: 'projects/proj-5.html'}
-- {name: 'KTM 350 Rebuild', folder: 'proj-7', file: 'projects/proj-7.html'}
 
 #-------------------------------
 # Contact Section
