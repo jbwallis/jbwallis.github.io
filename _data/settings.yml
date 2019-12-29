@@ -2,7 +2,7 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: ''}
+#- {name: 'Projects', url: ''}
 #- {name: 'Blog', url: 'pages/blog.html'}
 - {name: 'About', url: 'pages/about.html'}
 #- {name: 'Contact', url: 'pages/contact.html'}
@@ -85,6 +85,7 @@ projects:
 - {name: 'Sound Machine', folder: 'proj-8', file: 'projects/proj-8.html'}
 - {name: 'Stomper', folder: 'proj-4', file: 'projects/proj-4.html'}
 - {name: 'KUGU Home', folder: 'proj-5', file: 'projects/proj-5.html'}
+#- {name: 'KTM 350', folder: 'proj-8', file: 'projects/proj-8.html'}
 
 #-------------------------------
 # Contact Section
@@ -94,6 +95,6 @@ social:
 #- {icon: 'instagram', link: '#'}
 #- {icon: 'github', link: '#'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/jackbwallis/'}
-- {icon: 'envelope', link: 'mailto:jwallis22@berkeley.edu'}
+- {icon: 'envelope', link: 'mailto:jackbwallis@berkeley.edu'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
