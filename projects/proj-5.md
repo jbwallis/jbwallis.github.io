@@ -10,8 +10,8 @@ managers and landlords.
 During my time at the company, I helped develop an analysis and visualization tool for 
 their next-generation energy efficiency product. I pulled temperature data from a 
 timeseries database, wrote a Python script to run the data sets through multiple different regressions, 
-and then used Jinja templating to display graphs and relevant statistical relationships. 
-I also implemented a Python script to publish MQTT messages directly to a timeseres database to improve 
+and then used Jinja templating with Flask server to display graphs and relevant statistical relationships. 
+I also implemented a Python script to publish MQTT messages directly to a timeseries database to improve 
 pipeline efficiency.
 
 Here is an example visualization of how different variables affect a water heater 
