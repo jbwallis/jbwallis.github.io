@@ -79,6 +79,7 @@ contact: >
 
 projects:
 - {name: 'FSAE Cooling System', folder: 'proj-1', file: 'projects/proj-1.html'}
+- {name: 'Sentry', folder: 'proj-9', file: 'projects/proj-9.html'}
 - {name: 'IoL', folder: 'proj-6', file: 'projects/proj-6.html'}
 - {name: 'Wind Turbine', folder: 'proj-2', file: 'projects/proj-2.html'}
 - {name: 'Crossplane V8', folder: 'proj-3', file: 'projects/proj-3.html'}
