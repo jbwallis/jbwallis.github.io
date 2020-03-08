@@ -51,4 +51,42 @@ to always channel air to a fan that isn't always running.
 
 ![B20Rear](media/cooling/RearQuarter.JPG)
 
-In the spring semester, I intend to manufacture and assemble the radiator mounts and shroud.
+After running through multiple design reviews with formula alumni, the cooling design was finalized 
+and I began manufacturing. After acquiring the radiator via a Mishimoto sponsorship, I cut off the 
+factory mounting tabs and locator pin.
+
+![angle_grinder](media/cooling/anglegrinder.jpg)
+
+Using the tube profiles I created in Solidworks, I laser cut steel tabs for the chassis, ground 
+down the edges, and welded them on. 
+
+![chassis](media/cooling/chassistabs.jpg)
+
+I then cut two new tabs out of 60 thou aluminum for the sides of the radiator, bent them in 
+a vice,  used the chassis tabs to align them vertically, and tacked them on.
+
+![side](media/cooling/radtabs.jpg)
+
+For the rod assembly, the main challenge was machining threaded inserts first.
+ I used a lathe to drill and tap through a chunk of solid 0.5" 
+aluminum stock, then cut the piece in half with a bandsaw, and used the lathe to cut down 
+the diameter so each piece could slide inside 0.5" tube. Lastly, I milled flats onto each 
+insert so that the rod could be tightened once on the car.
+
+![lathe](media/cooling/lathe.jpg)
+
+![lathe](media/cooling/tierod.jpg)
+
+After welding the inserts into the tube, everything was ready to be fit on the newly-painted 
+B20 chassis.
+
+![lathe](media/cooling/final_side.jpg)
+
+![lathe](media/cooling/final_top.jpg)
+
+
+
+
+
+
+
