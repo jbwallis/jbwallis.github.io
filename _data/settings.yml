@@ -65,7 +65,7 @@ about: >
   - Cleon Peterson<BR>
   
 
-  Please feel free to reach out to me through my email!
+  Please feel free to reach out to me through my email:
   
   #### jackbwallis@berkeley.edu
   
@@ -78,14 +78,15 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'FSAE Cooling System', folder: 'proj-1', file: 'projects/proj-1.html'}
-- {name: 'Sentry', folder: 'proj-9', file: 'projects/proj-9.html'}
-- {name: 'IoL', folder: 'proj-6', file: 'projects/proj-6.html'}
-- {name: 'Wind Turbine', folder: 'proj-2', file: 'projects/proj-2.html'}
-- {name: 'Crossplane V8', folder: 'proj-3', file: 'projects/proj-3.html'}
-- {name: 'Sound Machine', folder: 'proj-8', file: 'projects/proj-8.html'}
-- {name: 'Stomper', folder: 'proj-4', file: 'projects/proj-4.html'}
-- {name: 'KUGU Home', folder: 'proj-5', file: 'projects/proj-5.html'}
+- {name: 'FSAE Cooling System', folder: 'cooling', file: 'projects/cooling.html'}
+- {name: 'covariant.ai', folder: 'covariant', file: 'projects/covariant.html'}
+- {name: 'Sentry', folder: 'sentry', file: 'projects/sentry.html'}
+- {name: 'IoL', folder: 'iol', file: 'projects/iol.html'}
+- {name: 'Wind Turbine', folder: 'turbine', file: 'projects/turbine.html'}
+- {name: 'Crossplane V8', folder: 'v8', file: 'projects/v8.html'}
+- {name: 'Sound Machine', folder: 'sound', file: 'projects/sound.html'}
+- {name: 'Stomper', folder: 'stomper', file: 'projects/stomper.html'}
+- {name: 'KUGU Home', folder: 'kugu', file: 'projects/kugu.html'}
 #- {name: 'KTM 350', folder: 'proj-8', file: 'projects/proj-8.html'}
 
 #-------------------------------
