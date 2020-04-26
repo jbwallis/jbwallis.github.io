@@ -67,9 +67,9 @@ a vice,  used the chassis tabs to align them vertically, and tacked them on.
 
 ![side](media/cooling/radtabs.jpg)
 
-For the rod assembly, the main challenge was machining threaded inserts first.
- I used a lathe to drill and tap through a chunk of solid 0.5" 
-aluminum stock, then cut the piece in half with a bandsaw, and used the lathe to cut down 
+For the rod assembly, the main challenge was machining threaded inserts.
+ I first used a lathe to drill and tap through a chunk of solid 0.5" 
+aluminum stock, then cut the piece in half with a bandsaw, and cut down 
 the diameter so each piece could slide inside 0.5" tube. Lastly, I milled flats onto each 
 insert so that the rod could be tightened once on the car.
 
