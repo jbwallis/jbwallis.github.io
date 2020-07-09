@@ -3,7 +3,7 @@
 
 menu:
 #- {name: 'Projects', url: ''}
-#- {name: 'Blog', url: 'pages/blog.html'}
+- {name: 'Map', url: 'pages/blog.html'}
 - {name: 'About', url: 'pages/about.html'}
 #- {name: 'Contact', url: 'pages/contact.html'}
 
@@ -47,7 +47,7 @@ about: >
   # Here's my [resume](WallisJackResume.pdf)
     
   I'm a mechanical engineer at UC Berkeley, an engine team member on Berkeley Formula Racing, 
-  and a hardware intern at covariant.ai. I'm currently looking for internships in 2020.
+  and a hardware intern at covariant.ai. I'm currently looking for internships.
   
   Interests include:
   
