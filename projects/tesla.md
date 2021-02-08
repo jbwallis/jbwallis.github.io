@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'B20 Cooling System'
+title: 'Model Y Equipment Engineering'
 ---
 
 For this project, I was responsible for designing the cooling system for the Berkeley Formula Racing 2020 car (B20).

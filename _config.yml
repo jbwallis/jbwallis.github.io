@@ -12,6 +12,6 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		           "Jack Wallis"
-description:	       "Personal design portfolio"
+title:		           "jack wallis"
+description:	       "Engineering portfolio"
 author:              "Jack Wallis"

@@ -3,8 +3,8 @@
 
 menu:
 #- {name: 'Projects', url: ''}
-- {name: 'Map', url: 'pages/blog.html'}
-- {name: 'About', url: 'pages/about.html'}
+# - {name: 'Map', url: 'pages/blog.html'}
+- {name: 'about', url: 'pages/about.html'}
 #- {name: 'Contact', url: 'pages/contact.html'}
 
 #-------------------------------
@@ -40,36 +40,31 @@ disqus:
 # About Section
 
 about: >
-  ## Hi! I'm Jack <BR>
-  
-  <img src="360noscope.jpg" alt="noscopeheadshot" width="600"/>
-  
-  # Here's my [resume](WallisJackResume.pdf)
-    
-  I'm a mechanical engineer at UC Berkeley, an engine team member on Berkeley Formula Racing, 
-  and a hardware intern at covariant.ai. I'm currently looking for internships.
-  
-  Interests include:
-  
-  - mechanical design<BR>
-  
-  - manufacturing<BR>
-  
-  - automotive engineering<BR>
-  
-  - computer science<BR>
-  
-  - rock climbing<BR>
-  
-  - jazz<BR>
-  
-  - Cleon Peterson<BR>
-  
+  # Hi! I'm Jack <BR>
 
-  Please feel free to reach out to me through my email:
-  
-  #### jackbwallis@berkeley.edu
-  
+  <img src="360noscope.jpg" alt="noscopeheadshot" width="600"/> <BR>
+
+  <BR>
+
+  I'm a mechanical engineer at UC Berkeley and lifelong designer, tinkerer and builder.
+
+  Interests include:
+
+  - mechanical design<BR>
+
+  - manufacturing<BR>
+
+  - automotive engineering<BR>
+
+  - computer science<BR>
+
+  - rock climbing<BR>
+
+  - jazz<BR>
+
+
+  Please feel free to reach out to me through my email: jackbwallis@berkeley.edu
+
 contact: >
   # Contact
 
@@ -79,15 +74,17 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'FSAE Cooling System', folder: 'cooling', file: 'projects/cooling.html'}
+- {name: 'Tesla Equipment Engineering', folder: 'tesla', file: 'projects/tesla.html'}
+- {name: 'Formlabs Product Design', folder: 'formlabs', file: 'projects/formlabs.html'}
 - {name: 'covariant.ai', folder: 'covariant', file: 'projects/covariant.html'}
+- {name: 'Berkeley FSAE', folder: 'cooling', file: 'projects/cooling.html'}
 - {name: 'Sentry', folder: 'sentry', file: 'projects/sentry.html'}
-- {name: 'IoL', folder: 'iol', file: 'projects/iol.html'}
-- {name: 'Wind Turbine', folder: 'turbine', file: 'projects/turbine.html'}
-- {name: 'Crossplane V8', folder: 'v8', file: 'projects/v8.html'}
-- {name: 'Sound Machine', folder: 'sound', file: 'projects/sound.html'}
-- {name: 'Stomper', folder: 'stomper', file: 'projects/stomper.html'}
-- {name: 'KUGU Home', folder: 'kugu', file: 'projects/kugu.html'}
+# - {name: 'IoL', folder: 'iol', file: 'projects/iol.html'}
+# - {name: 'Wind Turbine', folder: 'turbine', file: 'projects/turbine.html'}
+# - {name: 'Crossplane V8', folder: 'v8', file: 'projects/v8.html'}
+# - {name: 'Sound Machine', folder: 'sound', file: 'projects/sound.html'}
+# - {name: 'Stomper', folder: 'stomper', file: 'projects/stomper.html'}
+# - {name: 'KUGU Home', folder: 'kugu', file: 'projects/kugu.html'}
 #- {name: 'KTM 350', folder: 'proj-8', file: 'projects/proj-8.html'}
 
 #------------------------------
@@ -97,7 +94,7 @@ social:
 #- {icon: 'twitter', link: '#'}
 #- {icon: 'instagram', link: '#'}
 #- {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: 'https://www.linkedin.com/in/jackbwallis/'}
-- {icon: 'envelope', link: 'mailto:jackbwallis@berkeley.edu'}
+# - {icon: 'linkedin', link: 'https://www.linkedin.com/in/jackbwallis/'}
+# - {icon: 'envelope', link: 'mailto:jackbwallis@berkeley.edu'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
