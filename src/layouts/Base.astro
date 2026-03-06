@@ -1,0 +1,43 @@
+---
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const { title = 'Jack Wallis', description = 'Personal portfolio of Jack Wallis' } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <title>{title}</title>
+  </head>
+  <body class="min-h-screen bg-white text-gray-900 flex flex-col">
+    <header class="border-b border-gray-200">
+      <nav class="max-w-4xl mx-auto px-6 py-4 flex items-center justify-between">
+        <a href="/" class="font-semibold text-lg hover:text-gray-600 transition-colors">
+          Jack Wallis
+        </a>
+        <ul class="flex gap-6 text-sm">
+          <li><a href="/" class="hover:text-gray-600 transition-colors">Home</a></li>
+          <li><a href="/about" class="hover:text-gray-600 transition-colors">About</a></li>
+          <li><a href="/contact" class="hover:text-gray-600 transition-colors">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main class="flex-1 max-w-4xl mx-auto px-6 py-12 w-full">
+      <slot />
+    </main>
+
+    <footer class="border-t border-gray-200">
+      <div class="max-w-4xl mx-auto px-6 py-4 text-sm text-gray-500 text-center">
+        &copy; {new Date().getFullYear()} Jack Wallis
+      </div>
+    </footer>
+  </body>
+</html>
